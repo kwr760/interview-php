@@ -8,19 +8,23 @@
 
 namespace Creation\Singleton;
 
-class RemoteConnection {
+class RemoteConnection
+{
     private $con;
     private static $rc = null;
 
-    private function __contruct($c) {
+    private function __contruct($c)
+    {
         $this->con = $c;
     }
 
-    public static function getRemoteConnection() {
+    public static function getRemoteConnection()
+    {
         return self::$rc;
     }
 
-    public function setConnection($c) {
-        this(c);
+    public function setConnection($c)
+    {
+        $this->con = $c;
     }
 }

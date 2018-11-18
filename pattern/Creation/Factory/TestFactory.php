@@ -12,11 +12,13 @@ namespace Creation\Factory;
  * Class Page
  * @package Creation\Factory
  */
-class Page {
+class Page
+{
     /**
      * @param $type
      */
-    public function display($type) {
+    public function display($type)
+    {
         /**
          * var Display
          */

@@ -8,22 +8,25 @@
 
 namespace Creation\BadFactory;
 
-class Line implements iShape {
+class Line implements iShape
+{
     /** @var Point */
-    var $a;
+    private $a;
     /** @var Point */
-    var $b;
+    private $b;
 
     /**
      * @param Point $a
      * @param Point $b
      */
-    public function __construct($a, $b) {
+    public function __construct($a, $b)
+    {
         $this->a = $a;
         $this->b = $b;
     }
 
-    public function draw() {
+    public function draw()
+    {
         echo 'Drawing line.';
     }
 }

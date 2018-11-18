@@ -6,8 +6,8 @@
  * Time: 10:24 PM
  */
 
-include_once '..\..\class\2\evenFibonacci.php';
+include_once 'evenFibonacci.php';
 
-$test = new euler_2\evenFibonacci();
+$test = new euler_2\EvenFibonacci();
 $test->run(4000000);
 echo "\n";

@@ -8,40 +8,44 @@
 
 namespace Creation\AbstractFactory;
 
-
-class DataManager implements ConnectionFactory {
-    var $local = false;
-    var $data;
+class DataManager implements ConnectionFactory
+{
+    private $local = false;
+    private $data;
 
     /**
      * @return Local
      */
-    public function getLocalConnection() {
+    public function getLocalConnection()
+    {
         return new LocalMode();
     }
 
     /**
      * @return Remote
      */
-    public function getRemoteConnection() {
+    public function getRemoteConnection()
+    {
         return new RemoteMode();
     }
 
-    public function loadData() {
-         if($this->local){
+    public function loadData()
+    {
+        if ($this->local) {
              $conn = $this->getLocalConnection();
              $this->data = $conn->loadDB("db.db");
-         } else {
+        } else {
              $conn = $this->getRemoteConnection();
              $conn->connect2WWW("www.some.where.com");
              $this->data = $conn->loadDB("db.db");
-         }
+        }
     }
 
     /**
      * @param bool $b
      */
-    public function setConnection($b) {
+    public function setConnection($b)
+    {
         $this->local = $b;
     }
 }

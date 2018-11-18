@@ -8,17 +8,18 @@
 
 namespace Creation\BadFactory;
 
-class Painting {
+class Painting
+{
     /** @var Point */
-    var $x;
+    private $x;
     /** @var Point */
-    var $y;
+    private $y;
     /** @var int */
-    var $width;
+    private $width;
     /** @var int */
-    var $height;
+    private $height;
     /** @var int */
-    var $radius;
+    private $radius;
 
     /**
      * @param Point $a
@@ -27,7 +28,8 @@ class Painting {
      * @param int $h
      * @param int $r
      */
-    public function __construct(Point $a, Point $b, $w, $h, $r) {
+    public function __construct(Point $a, Point $b, $w, $h, $r)
+    {
         $this->x = $a;
         $this->y = $b;
         $this->width = $w;
@@ -38,21 +40,24 @@ class Painting {
     /**
      * @return Line
      */
-    public function drawLine() {
+    public function drawLine()
+    {
         return new Line($this->x, $this->y);
     }
 
     /**
      * @return Square
      */
-    public function drawSquare() {
+    public function drawSquare()
+    {
         return new Square($this->x, $this->width, $this->height);
     }
 
     /**
      * @return Circle
      */
-    public function drawCircle() {
+    public function drawCircle()
+    {
         return new Circle($this->x, $this->radius);
     }
 }

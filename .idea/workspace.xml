@@ -1,21 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/pattern/Creation/BadFactory/Circle.php" line="15" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="871ad775-23d9-4e76-864b-ec1f05081904" name="Default" comment="" />
+    <list default="true" id="871ad775-23d9-4e76-864b-ec1f05081904" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/euler/class/1/threeAndFive.php" beforeDir="false" afterPath="$PROJECT_DIR$/euler/1/threeAndFive.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/euler/class/2/evenFibonacci.php" beforeDir="false" afterPath="$PROJECT_DIR$/euler/2/evenFibonacci.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/euler/class/3/largestFactor.php" beforeDir="false" afterPath="$PROJECT_DIR$/euler/3/largestFactor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/euler/class/4/largestPalindrome.php" beforeDir="false" afterPath="$PROJECT_DIR$/euler/4/largestPalindrome.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/euler/script/1/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/euler/1/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/euler/script/2/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/euler/2/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/euler/script/3/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/euler/3/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/euler/script/4/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/euler/4/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/ConnectionFactory.interface.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/ConnectionFactory.interface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/DataInfo.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/DataInfo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/DataManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/DataManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/Local.interface.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/Local.interface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/LocalMode.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/LocalMode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/Remote.interface.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/Remote.interface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/RemoteMode.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/RemoteMode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/AbstractFactory/Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/BadFactory/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/BadFactory/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/BadFactory/Line.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/BadFactory/Line.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/BadFactory/Painting.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/BadFactory/Painting.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/BadFactory/Point.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/BadFactory/Point.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/BadFactory/Shape.interface.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/BadFactory/Shape.interface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/BadFactory/Square.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/BadFactory/Square.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/Factory/CsvFile.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/Factory/CsvFile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/Factory/DbFile.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/Factory/DbFile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/Factory/Display.interface.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/Factory/Display.interface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/Factory/TestFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/Factory/TestFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/Factory/XmlFile.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/Factory/XmlFile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/Creation/Singleton/RemoteConnection.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/Creation/Singleton/RemoteConnection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/test/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/test/test.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE">
+    <executablePath>/usr/bin/composer</executablePath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="459714095">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="435" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="435" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="test.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pattern/test/test.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pattern/Creation/BadFactory/Square.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="180">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/Creation/BadFactory/Shape.interface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/Creation/BadFactory/Point.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/Creation/BadFactory/Painting.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/Creation/BadFactory/Circle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/Creation/BadFactory/Line.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -25,26 +138,83 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/euler/1/test.php" />
+        <option value="$PROJECT_DIR$/euler/1/threeAndFive.php" />
+        <option value="$PROJECT_DIR$/euler/2/evenFibonacci.php" />
+        <option value="$PROJECT_DIR$/euler/3/largestFactor.php" />
+        <option value="$PROJECT_DIR$/euler/3/test.php" />
+        <option value="$PROJECT_DIR$/euler/2/test.php" />
+        <option value="$PROJECT_DIR$/euler/4/test.php" />
+        <option value="$PROJECT_DIR$/euler/4/largestPalindrome.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/AbstractFactory/ConnectionFactory.interface.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/AbstractFactory/DataInfo.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/AbstractFactory/DataManager.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/AbstractFactory/Local.interface.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/AbstractFactory/Remote.interface.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/AbstractFactory/LocalMode.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/AbstractFactory/RemoteMode.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/AbstractFactory/Test.php" />
+        <option value="$PROJECT_DIR$/pattern/test/test.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/Singleton/RemoteConnection.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/Factory/XmlFile.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/Factory/TestFactory.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/Factory/Display.interface.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/Factory/CsvFile.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/Factory/DbFile.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/BadFactory/Line.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/BadFactory/Circle.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/BadFactory/Painting.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/BadFactory/Point.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/BadFactory/Shape.interface.php" />
+        <option value="$PROJECT_DIR$/pattern/Creation/BadFactory/Square.php" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+  <component name="PhpServers">
+    <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="2179" />
-    <option name="y" value="63" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-3" />
+    <option name="y" value="-1" />
+    <option name="width" value="2566" />
+    <option name="height" value="1420" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Quality toolsPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>MessDetectorValidationInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -55,33 +225,48 @@
             <path>
               <item name="interview-php" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview-php" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview-php" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview-php" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview-php" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview-php" type="462c0819:PsiDirectoryNode" />
-              <item name="euler" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview-php" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview-php" type="462c0819:PsiDirectoryNode" />
               <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Creation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-php" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Creation" type="462c0819:PsiDirectoryNode" />
+              <item name="BadFactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview-php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview-php" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Creation" type="462c0819:PsiDirectoryNode" />
+              <item name="Factory" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/euler" />
+      <recent name="$PROJECT_DIR$/euler/1" />
+      <recent name="$PROJECT_DIR$/euler/class/4" />
+      <recent name="$PROJECT_DIR$/euler/class/3" />
+      <recent name="$PROJECT_DIR$/euler/class/2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -95,6 +280,29 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="PHP Script.test.php (2)">
+    <configuration name="test.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/euler/2/test.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php (2)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/euler/4/test.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/euler/1/test.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.test.php" />
+      <item itemvalue="PHP Script.test.php (1)" />
+      <item itemvalue="PHP Script.test.php (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.test.php (2)" />
+        <item itemvalue="PHP Script.test.php (1)" />
+        <item itemvalue="PHP Script.test.php" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -106,34 +314,37 @@
       <option name="presentableId" value="Default" />
       <updated>1528952187809</updated>
       <workItem from="1528952193008" duration="876000" />
+      <workItem from="1542436848792" duration="3187000" />
+      <workItem from="1542499570584" duration="1759000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="876000" />
+    <option name="totallyTimeSpent" value="5822000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2179" y="63" width="1400" height="1000" extended-state="1" />
+    <frame x="-3" y="-1" width="2566" height="1420" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1372315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32913387" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32913387" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.7582677" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32998455" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,13 +354,216 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithms/sort/binary.php">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/binary.php" />
+    <entry file="file://$PROJECT_DIR$/euler/1/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euler/1/threeAndFive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euler/3/largestFactor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euler/3/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euler/2/evenFibonacci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euler/2/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euler/4/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euler/4/largestPalindrome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/AbstractFactory/ConnectionFactory.interface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/AbstractFactory/DataInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/AbstractFactory/DataManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/AbstractFactory/Local.interface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/AbstractFactory/Remote.interface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/AbstractFactory/LocalMode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/AbstractFactory/RemoteMode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/AbstractFactory/Test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pattern/test/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/Singleton/RemoteConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/Factory/XmlFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/Factory/TestFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/Factory/Display.interface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/Factory/CsvFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/Factory/DbFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/BadFactory/Line.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/BadFactory/Circle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/BadFactory/Painting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/BadFactory/Point.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/BadFactory/Shape.interface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/Creation/BadFactory/Square.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
         </state>
       </provider>
     </entry>

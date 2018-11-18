@@ -12,12 +12,14 @@ namespace Creation\AbstractFactory;
  * Class LocalMode
  * @package Creation\AbstractFactory
  */
-class LocalMode implements Local {
+class LocalMode implements Local
+{
     /**
      * @param $name
      * @return array
      */
-    public function loadDB($name) {
+    public function loadDB($name)
+    {
         echo "Load from a local database ";
         return array();
     }

@@ -8,6 +8,7 @@
 
 namespace Creation\BadFactory;
 
-interface iShape {
+interface iShape
+{
     public function draw();
 }

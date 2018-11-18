@@ -12,15 +12,18 @@ namespace Creation\Factory;
  * Class DbFile
  * @package Creation\Factory
  */
-class DbFile implements Display {
+class DbFile implements Display
+{
     /**
      * @param $file
      */
-    public function load($file) {
+    public function load($file)
+    {
         echo "load from db";
     }
 
-    public function formatConsistency() {
+    public function formatConsistency()
+    {
         echo "db format changed";
     }
 }

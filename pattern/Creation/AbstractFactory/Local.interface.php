@@ -12,7 +12,8 @@ namespace Creation\AbstractFactory;
  * Interface Local
  * @package Creation\AbstractFactory
  */
-interface Local {
+interface Local
+{
     /**
      * @param $filename
      * @return array

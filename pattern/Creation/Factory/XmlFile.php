@@ -12,16 +12,18 @@ namespace Creation\Factory;
  * Class Xmlfile
  * @package Creation\Factory
  */
-class Xmlfile implements Display {
+class Xmlfile implements Display
+{
     /**
      * @param $file
      */
-    public function load($file) {
+    public function load($file)
+    {
         echo "load from a xml file";
     }
 
-    public function formatConsistency() {
+    public function formatConsistency()
+    {
         echo "xml file format changed";
     }
-
 }

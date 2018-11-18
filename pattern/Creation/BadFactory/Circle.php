@@ -8,22 +8,25 @@
 
 namespace Creation\BadFactory;
 
-class Circle implements iShape {
+class Circle implements iShape
+{
     /** @var Point */
-    var $start;
+    private $start;
     /** @var int */
-    var $radius;
+    private $radius;
 
     /**
      * @param Point $s
-     * @param int $5
+     * @param int $r
      */
-    public function __construct($s, $r) {
+    public function __construct($s, $r)
+    {
         $this->start = $s;
         $this->radius = $r;
     }
 
-    public function draw() {
+    public function draw()
+    {
         echo 'Drawing circle.';
     }
 }

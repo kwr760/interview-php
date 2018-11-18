@@ -12,7 +12,8 @@ namespace Creation\AbstractFactory;
  * Interface Remote
  * @package Creation\AbstractFactory
  */
-interface Remote extends Local {
+interface Remote extends Local
+{
     /**
      * @param $url
      * @return mixed

@@ -12,10 +12,10 @@ namespace euler_4;
  * Class largestPalindrome
  * @package euler_4
  */
-class largestPalindrome {
+class LargestPalindrome
+{
     /**
      * @param $number
-     * @return int
      */
     public function run($number)
     {
@@ -24,6 +24,7 @@ class largestPalindrome {
         $sqroot = ceil(sqrt($number));
         $largest = 1;
         for ($i = 3; $i < $sqroot; $i = $i + 2) {
+            // TODO:  Need to implement this.
             if ($this->isPrime($i)) {
                 if (0 == $number % $i) {
                     echo $i . "\n";
@@ -38,7 +39,5 @@ class largestPalindrome {
     private function isPalindrome($str)
     {
         $len = strlen($str);
-
-
     }
 }

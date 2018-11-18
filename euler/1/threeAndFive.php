@@ -12,11 +12,12 @@ namespace euler_1;
  * Class threeAndFive
  * @package euler_1
  */
-class threeAndFive {
+class ThreeAndFive
+{
     /**
      * @param int $range
      */
-    public function run ($range)
+    public function run($range)
     {
         $total = 0;
         for ($i = 3; $i <= $range; $i = $i + 3) {

@@ -12,12 +12,14 @@ namespace Creation\AbstractFactory;
  * Class RemoteMode
  * @package Creation\AbstractFactory
  */
-class RemoteMode implements Remote {
+class RemoteMode implements Remote
+{
     /**
      * @param $url
      * @return null
      */
-    public function connect2WWW($url) {
+    public function connect2WWW($url)
+    {
         echo "Connect to a remote site";
         return;
     }
@@ -26,7 +28,8 @@ class RemoteMode implements Remote {
      * @param $name
      * @return array
      */
-    public function loadDB($name) {
+    public function loadDB($name)
+    {
         echo "Load from a remote database";
         return array();
     }

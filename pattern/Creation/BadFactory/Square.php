@@ -8,26 +8,29 @@
 
 namespace Creation\BadFactory;
 
-class Square implements iShape {
+class Square implements iShape
+{
     /** @var Point */
-    var $start;
+    private $start;
     /** @var int */
-    var $width;
+    private $width;
     /** @var int */
-    var $height;
+    private $height;
 
     /**
      * @param Point $s
      * @param int $w
      * @param int $h
      */
-    public function __construct($s, $w, $h) {
+    public function __construct($s, $w, $h)
+    {
         $this->start = $s;
         $this->width = $w;
         $this->height = $h;
     }
 
-    public function draw() {
+    public function draw()
+    {
         echo 'Drawing square.';
     }
 }

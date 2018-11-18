@@ -12,12 +12,12 @@ namespace euler_3;
  * Class largestFactor
  * @package euler_3
  */
-class largestFactor {
+class LargestFactor
+{
     private $Primes = array(2);
 
     /**
      * @param $number
-     * @return int
      */
     public function run($number)
     {

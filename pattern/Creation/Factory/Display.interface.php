@@ -12,7 +12,8 @@ namespace Creation\Factory;
  * Interface Display
  * @package Creation\Factory
  */
-interface Display {
+interface Display
+{
     /**
      * @param $filename
      * @return void

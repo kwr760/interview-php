@@ -8,8 +8,8 @@
 
 namespace Creation\AbstractFactory;
 
-
-interface ConnectionFactory {
+interface ConnectionFactory
+{
     /**
      * @return Local
      */

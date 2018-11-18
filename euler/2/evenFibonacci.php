@@ -12,11 +12,12 @@ namespace euler_2;
  * Class evenFibonacci
  * @package euler_2
  */
-class evenFibonacci {
+class EvenFibonacci
+{
     /**
      * @param int $range
      */
-    public function run ($range)
+    public function run($range)
     {
         $total = 0;
         $fib[0] = 0;

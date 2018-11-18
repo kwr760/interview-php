@@ -12,17 +12,19 @@ namespace Creation\BadFactory;
  * Class Point
  * @package Creation\BadFactory
  */
-class Point {
+class Point
+{
     /** @var int */
-    var $x;
+    private $x;
     /** @var int */
-    var $y;
+    private $y;
 
     /**
      * @param int $x
      * @param int $y
      */
-    public function __construct($x, $y) {
+    public function __construct($x, $y)
+    {
         $this->x = $x;
         $this->y = $y;
     }

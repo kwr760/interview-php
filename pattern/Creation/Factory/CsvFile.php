@@ -12,15 +12,18 @@ namespace Creation\Factory;
  * Class CsvFile
  * @package Creation\Factory
  */
-class CsvFile implements Display {
+class CsvFile implements Display
+{
     /**
      * @param $file
      */
-    public function load($file) {
+    public function load($file)
+    {
         echo "load from a csv file";
     }
 
-    public function formatConsistency() {
+    public function formatConsistency()
+    {
         echo "csv file format changed";
     }
 }

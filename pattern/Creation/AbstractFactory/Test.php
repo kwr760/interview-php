@@ -8,8 +8,10 @@
 
 namespace Creation\AbstractFactory;
 
-class Test {
-    public function display($args) {
+class Test
+{
+    public function display($args)
+    {
         $dm = new DataManager();
         $di = null;
         $dbFileName = "db.db";

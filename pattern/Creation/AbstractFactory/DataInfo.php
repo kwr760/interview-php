@@ -12,6 +12,6 @@ namespace Creation\AbstractFactory;
  * Class DataInfo
  * @package Creation\AbstractFactory
  */
-class DataInfo {
-
+class DataInfo
+{
 }

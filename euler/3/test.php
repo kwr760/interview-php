@@ -6,9 +6,9 @@
  * Time: 10:24 PM
  */
 
-include_once '..\..\class\3\largestFactor.php';
+include_once 'largestFactor.php';
 
-$test = new euler_3\largestFactor();
+$test = new euler_3\LargestFactor();
 // 600851475143
 echo $test->run(600851475143);
 echo "\n";
